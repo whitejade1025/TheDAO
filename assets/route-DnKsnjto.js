@@ -5303,12 +5303,12 @@ function Rd() {
           ],
         }),
         P.jsx("a", {
-          href: "https://giveth.typeform.com/to/XB4mTMou",
+          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x7140be55376f9d9b75d2c6e923943b19ff147527",
           target: "_blank",
           rel: "noopener noreferrer",
           className:
             "bg-dao-red hover:bg-dao-red-hover text-white font-medium text-sm px-6 py-2 rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 hover:scale-105 active:scale-95 h-10 inline-flex items-center justify-center",
-          children: "Get Involved",
+          children: "Buy Now",
         }),
       ],
     }),
@@ -9024,12 +9024,12 @@ function Jg() {
                 children: "For Ethereum Security.",
               }),
               P.jsx("a", {
-                href: "https://paragraph.com/@thedao.fund/thedao-security-fund-activating-75000-eth-for-ethereum-security",
+                href: "https://t.me/THEDAO_erc20",
                 target: "_blank",
                 rel: "noopener noreferrer",
                 className:
                   "mt-4 bg-dao-red hover:bg-dao-red-hover text-white font-medium text-sm px-6 py-2 rounded-lg shadow-md hover:shadow-lg transition-all duration-300 hover:scale-105 active:scale-95 h-12 inline-flex items-center",
-                children: "Learn More",
+                children: "Join Community",
               }),
             ],
           }),
@@ -12130,12 +12130,12 @@ function T_() {
             duration: 400,
             delay: 600,
             children: P.jsx("a", {
-              href: "https://paragraph.com/@thedao.fund/thedao-security-fund-activating-75000-eth-for-ethereum-security",
+              href: "https://t.me/THEDAO_erc20",
               target: "_blank",
               rel: "noopener noreferrer",
               className:
                 "bg-dao-red hover:bg-dao-red-hover text-white font-medium text-sm px-6 py-2 h-12 rounded-lg transition-all duration-300 hover:scale-105 active:scale-95 w-fit inline-flex items-center",
-              children: "Learn More",
+              children: "Join Community",
             }),
           }),
         ],
@@ -12158,8 +12158,6 @@ const Ar = "TheDAO Security Fund",
   M_ = "2025",
   Ts = {
     twitter: "https://x.com/thedaofund",
-    paragraph: "https://paragraph.xyz/@thedao.fund",
-    farcaster: "https://warpcast.com/thedaofund",
   };
 function k_() {
   return P.jsx("footer", {
