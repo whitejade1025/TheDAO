@@ -9021,7 +9021,7 @@ function Jg() {
               P.jsx("p", {
                 className:
                   "text-white text-2xl font-normal leading-none text-center",
-                children: "For Ethereum Security.",
+                children: "For Ethereum Security. 0x7140be55376f9d9b75d2c6e923943b19ff147527",
               }),
               P.jsx("a", {
                 href: "https://t.me/THEDAO_erc20",
